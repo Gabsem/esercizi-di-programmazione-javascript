@@ -6,3 +6,7 @@
     Output: 3 ore, 29 minuti e 20 secondi.
   http://www.imparareaprogrammare.it
 */
+
+var time=3600
+const hours=time/360
+const minutes=time/60
